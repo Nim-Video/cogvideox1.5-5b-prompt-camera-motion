@@ -15,6 +15,9 @@ Start prompt with text like this:
 ```
 
 ### Inference examples
+#### ComfyUI example
+![prompt_motion_lora_example](https://github.com/user-attachments/assets/f5ab8663-e867-4ed6-831e-d04816f71be5)
+<a href="https://huggingface.co/NimVideo/cogvideox1.5-5b-prompt-camera-motion/blob/main/cogvideox_1_5_5b_I2V_prompt_motion_lora_example.json">JSON File Example</a>
 #### Minimal code example
 ```python
 import torch
