@@ -1,5 +1,10 @@
 # CogvideoX-5b LoRa to control camera movement
 
+https://github.com/user-attachments/assets/23ea2dac-7a8b-4cd5-a688-a1205a5aa8fd
+
+https://github.com/user-attachments/assets/5e463f82-3a08-4996-b204-a039b8763940
+
+### Usage
 The LoRa was trained to control camera movement in 6 directions: `left`, `right`, `up`, `down`, `zoom_in`, `zoom_out`.
 Start prompt with text like this:
 ```python
