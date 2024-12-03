@@ -1,5 +1,7 @@
 # CogvideoX-5b LoRa to control camera movement
 
+https://github.com/user-attachments/assets/7a8dc796-8c12-4570-bffb-285a64eec327
+
 https://github.com/user-attachments/assets/5e463f82-3a08-4996-b204-a039b8763940
 
 ### <a href="https://huggingface.co/NimVideo/cogvideox1.5-5b-prompt-camera-motion">Download Lora weights</a>
